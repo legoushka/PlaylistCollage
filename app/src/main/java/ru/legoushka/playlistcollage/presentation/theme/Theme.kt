@@ -1,4 +1,4 @@
-package ru.legoushka.playlistcollage.ui.theme
+package ru.legoushka.playlistcollage.presentation.theme
 
 import android.app.Activity
 import android.os.Build

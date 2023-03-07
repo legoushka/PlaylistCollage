@@ -1,4 +1,4 @@
-package ru.legoushka.playlistcollage.ui.theme
+package ru.legoushka.playlistcollage.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
